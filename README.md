@@ -4,10 +4,10 @@ An end-to-end anomaly detection pipeline that scans 1M+ shipment records across 
 
 ## Features
 
-- **Statistical Detection Pipeline** — Z-Score analysis, IQR outlier filtering, Isolation Forest, and Median Absolute Deviation run in sequence to flag anomalous shipments
-- **Interactive Dashboard** — drill-down by route, filter by risk level or anomaly type, and inspect individual shipment records in under 30 seconds
-- **12 International Routes** — monitors corridors across Asia-Pacific, Europe, Americas, Middle East, and Africa
-- **Real-time KPIs** — live anomaly count, estimated financial risk, and pipeline status at a glance
+- **Statistical Detection Pipeline** - Z-Score analysis, IQR outlier filtering, Isolation Forest, and Median Absolute Deviation run in sequence to flag anomalous shipments
+- **Interactive Dashboard** - drill-down by route, filter by risk level or anomaly type, and inspect individual shipment records in under 30 seconds
+- **12 International Routes** - monitors corridors across Asia-Pacific, Europe, Americas, Middle East, and Africa
+- **Real-time KPIs** - live anomaly count, estimated financial risk, and pipeline status at a glance
 
 ## Results
 
